@@ -1,9 +1,12 @@
 /* eslint max-len: "off" */
+
+import asset from '../media/cover.jpg'
+
 const cover = (props) => (`
   <div class="cover">
     <div class="cover-img">
       <img
-        src='${props.cover.src}'
+        src='${asset}'
         style="
           width: ${props.cover.width};
           top: ${props.cover.top};
