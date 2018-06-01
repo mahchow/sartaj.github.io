@@ -11,7 +11,7 @@ export default {
   },
   forkUrl: 'https://github.com/sartaj/sartaj.github.io',
   github: 'https://github.com/sartaj',
-  pdf: 'https://github.com/sartaj/sartaj.github.io/raw/master/SartajChowdhury-Resume.pdf',
+  pdf: 'https://github.com/mahchow/sartaj.github.io/blob/master/AbrarMahmudChowdhury_Resume.pdf',
   twitter: 'https://twitter.com/sartaj',
   professional,
   personal
